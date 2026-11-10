@@ -191,6 +191,19 @@ Maintenance rules:
 | guides/measure/troubleshooting/sharing/how-to.md | Troubleshooting · Sharing: How To | aiko.tanaka | review |
 | guides/measure/troubleshooting/sharing/overview.md | Troubleshooting · Sharing: Overview | finn.rodrigues | published |
 | guides/measure/troubleshooting/sharing/reference.md | Troubleshooting · Sharing: Reference | kai.zhang | review |
+| guides/onboarding/phase-01-orientation/first-steps/navigate-the-home-screen.md | Navigate the Home Screen | rueben.owusu | published |
+| guides/onboarding/phase-01-orientation/first-steps/set-up-notifications.md | Set Up Your Notifications | marta.ilves | review |
+| guides/onboarding/phase-01-orientation/workspace-basics/create-your-first-workspace.md | Create Your First Workspace | priya.nandakumar | review |
+| guides/onboarding/phase-01-orientation/workspace-basics/invite-your-team.md | Invite Your Team to a Workspace | diego.aramaki | review |
+| guides/onboarding/phase-02-teamwork/review-flow/request-a-review.md | Request a Review from a Teammate | hiro.nakamura | review |
+| guides/onboarding/phase-02-teamwork/review-flow/resolve-review-comments.md | Resolve Review Comments | ines.costa | published |
+| guides/onboarding/phase-02-teamwork/shared-boards/archive-a-board.md | Archive a Board Without Losing History | grace.mbeki | review |
+| guides/onboarding/phase-02-teamwork/shared-boards/assign-board-owners.md | Assign Board Owners | ben.okuya | published |
+| guides/onboarding/phase-02-teamwork/shared-boards/create-a-shared-board.md | Create a Shared Board | aiko.tanaka | review |
+| guides/onboarding/phase-03-admin/access-control/grant-administrator-access.md | Grant Administrator Access | kai.zhang | published |
+| guides/onboarding/phase-03-admin/access-control/rotate-service-credentials.md | Rotate Service Credentials | cara.lindqvist | review |
+| guides/onboarding/phase-03-admin/reporting/build-a-usage-report.md | Build a Monthly Usage Report | finn.rodrigues | review |
+| guides/onboarding/phase-03-admin/reporting/schedule-compliance-digest.md | Schedule a Compliance Digest | marta.ilves | published |
 | guides/operate/configuration/accounts/how-to.md | Configuration · Accounts: How To | dev.patel | published |
 | guides/operate/configuration/accounts/overview.md | Configuration · Accounts: Overview | ines.costa | published |
 | guides/operate/configuration/accounts/reference.md | Configuration · Accounts: Reference | ben.okuya | review |
